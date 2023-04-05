@@ -1,4 +1,5 @@
 # around-the-world
+## sample website
 
 This is a codecademy front-end project focussing on use of color in web design. there’s more to creating a usable experience than just selecting beautiful, harmonious colors.
 
