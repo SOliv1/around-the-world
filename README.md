@@ -8,7 +8,7 @@ While aesthetics can enhance the display of the website, an important part of be
 My chosen colour theme for the website can be viewed here: [Adobe-colour-themes](https://color.adobe.com/mythemes?viewTheme)
 
 [Adobe Color CC ](https://color.adobe.com/create/color-wheel)
-I chose the above colour scheme complimentary.  The following are the different colour themes from which to choose.
+I chose the above colour scheme triad.  The following are the different colour themes from which to choose.
 there are multiple color schemes to select from:
 
 * Monochromatic,
