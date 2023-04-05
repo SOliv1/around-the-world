@@ -178,7 +178,7 @@ button:hover {
 .button-primary {
   border: 1px solid #FFFFFF;
   color: #FFFFFF;
-  background-color: #992E75;
+  background-color: rgb(153, 46, 117);
   float: left;
 }
 input, textarea {
