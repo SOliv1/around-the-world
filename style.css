@@ -167,7 +167,7 @@ button:hover {
   text-transform: uppercase;
   line-height: normal;
   padding: 15px 30px;
-  background-color:#992E75;
+  background-color: rgb(153, 46, 117);
   text-align: center;
   text-decoration: none;
   transition: opacity 600ms ease-out
