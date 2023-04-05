@@ -167,17 +167,18 @@ button:hover {
   text-transform: uppercase;
   line-height: normal;
   padding: 15px 30px;
+  background-color:#992E75;
   text-align: center;
   text-decoration: none;
-  transition: opacity 0.5s ease;
+  transition: opacity 600ms ease-out
 }
 .button:hover {
-  opacity: 0.75;
+  opacity: 0.1;
 }
 .button-primary {
   border: 1px solid #FFFFFF;
   color: #FFFFFF;
-  background-color: transparent;
+  background-color: #992E75;
   float: left;
 }
 input, textarea {
@@ -328,7 +329,7 @@ blockquote footer {
   .photo-contact-form input {
     width: 48%;
     display: inline-block;
-    float: left;
+    float: inline-start;
   }
   .photo-contact-form input:nth-child(1), .photo-contact-form input:nth-child(3) {
     margin: 0 2% 20px 0;
