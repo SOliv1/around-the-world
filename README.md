@@ -17,3 +17,5 @@ there are multiple color schemes to select from:
 * Triadic
 
 **IMPROVED STYLING WITH CSS**
+
+[GitHub markup language ref](https://github.com/Kernix13/markdown-cheatsheet#unordered) 
